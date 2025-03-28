@@ -1,4 +1,16 @@
 # ebook_app_readify
- Readify is a modern e-book reading app with built-in audiobooks, designed for book lovers who enjoy reading and listening on the go. Whether you prefer immersive reading or hands-free listening, our app provides a seamless experience with a vast library of e-books and audiobooks across various genres.
 
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
