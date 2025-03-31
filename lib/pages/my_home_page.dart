@@ -12,6 +12,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Container(
       child: SafeArea(child: Scaffold(
+        appBar: AppBar(),
 
       )),
     );
